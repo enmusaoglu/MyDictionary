@@ -31,7 +31,7 @@ namespace MyDictionary
             }
             valueArray[valueArray.Length - 1] = value;
 
-            Console.WriteLine("Id : "+key + "Name : " + value);
+            Console.WriteLine("Id : "+key + " Name : " + value);
         }
 
     }
